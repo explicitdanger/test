@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "dateAdded": "",
+      "slug": "",
+      "content": [
+        {
+          "title": "new framework",
+          "url": "",
+          "category": "TS",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "head": "dateAdded",
+  "categories": ["TS", "PY", "JS"]
+}
