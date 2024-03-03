@@ -1,9 +1,9 @@
 {
-  "postslist": [
+  "postsList": [
     {
       "date": "3-3-2024",
       "slug": "3-3-2024",
-      "issue": "1",
+      "issueId": 1,
       "posts": [
         {
           "title": "new framework",
