@@ -24,6 +24,56 @@
           "description": "best framework"
         }
       ]
+    },
+    {
+      "date": "3-3-2024",
+      "slug": "3-3-2024",
+      "issueId": 1,
+      "posts": [
+        {
+          "title": "new framework",
+          "url": "https://github.com",
+          "category": "TS",
+          "description": "best framework"
+        },
+        {
+          "title": "new framework",
+          "url": "https://github.com",
+          "category": "TS",
+          "description": "best framework"
+        },
+        {
+          "title": "new framework",
+          "url": "https://github.com",
+          "category": "TS",
+          "description": "best framework"
+        }
+      ]
+    },
+    {
+      "date": "3-3-2024",
+      "slug": "3-3-2024",
+      "issueId": 1,
+      "posts": [
+        {
+          "title": "new framework",
+          "url": "https://github.com",
+          "category": "TS",
+          "description": "best framework"
+        },
+        {
+          "title": "new framework",
+          "url": "https://github.com",
+          "category": "TS",
+          "description": "best framework"
+        },
+        {
+          "title": "new framework",
+          "url": "https://github.com",
+          "category": "TS",
+          "description": "best framework"
+        }
+      ]
     }
   ],
   "head": "last date added",
